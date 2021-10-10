@@ -16,4 +16,4 @@ Im Rusya, novice programmer. Studying the code, and constantly qualify my know
 ![CSS](https://rf0x3d.su/maybe_assets/language-css3.svg)
 
 ## Copyright
-Img by [rf0x3d(https://github.com/rfoxxxy)]
+Img by [rf0x3d](https://github.com/rfoxxxy)
