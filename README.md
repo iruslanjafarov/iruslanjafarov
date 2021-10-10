@@ -1,4 +1,4 @@
-### Hello there 👋
+### Q 👋
 Im Rusya, novice programmer. Studying the code, and constantly qualify my know
 
 
