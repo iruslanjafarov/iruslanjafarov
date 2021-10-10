@@ -3,7 +3,7 @@ Im Rusya, novice programmer. Studying the code, and constantly qualify my know
 
 
 
-## ![lol](https://img.icons8.com/ultraviolet/30/000000/info.png) Resources
+## ![lol](https://img.icons8.com/nolan/30/information.png) Resources
   [![Website](https://rf0x3d.su/maybe_assets/globe_outline_28.svg)](https://rusyaaaa.github.io/)
   [![VK](https://img.icons8.com/ios/50/000000/vk-com.png)](https://vk.com/somanyclever)
   [![Instagram](https://rf0x3d.su/maybe_assets/story_outline_28.svg)](https://www.instagram.com/somanyclever/)
