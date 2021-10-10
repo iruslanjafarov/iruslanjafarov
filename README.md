@@ -10,8 +10,9 @@ Im Rusya, novice programmer. Studying the code, and constantly qualify my know
 
 
 
-## ![lol](https://img.icons8.com/ios/50/000000/communication-skill.png) My skills
-![Java](https://img.icons8.com/ios/50/000000/java-coffee-cup-logo--v1.png)
-![JS](https://img.icons8.com/ios/50/000000/js.png)
-![HTML](https://img.icons8.com/ios/50/000000/html.png)
-![CSS](https://img.icons8.com/ios/50/000000/css.png)
+## ![lol](https://img.icons8.com/ios/50/000000/js.png) My skills
+![Java](https://rf0x3d.su/maybe_assets/language-java.svg)
+![HTML](https://rf0x3d.su/maybe_assets/language-html5.svg)
+![CSS](https://rf0x3d.su/maybe_assets/language-css3.svg)
+
+Img by r
