@@ -5,8 +5,8 @@ Im Rusya, novice programmer. Studying the code, and qualifying my knowledges
 
 ## 😊Resources
   [![Website](https://rf0x3d.su/maybe_assets/globe_outline_28.svg)](https://rusyaaaa.github.io/)
-  [![VK](https://rf0x3d.su/maybe_assets/logo_vk_outline_28.svg)](https://vk.com/rusyazy)
-  [![Instagram](https://rf0x3d.su/maybe_assets/story_outline_28.svg)](https://www.instagram.com/imrusyazy/)
+  [![VK](https://rf0x3d.su/maybe_assets/logo_vk_outline_28.svg)](https://vk.com/rusyap7ay3r)
+  [![Instagram](https://rf0x3d.su/maybe_assets/story_outline_28.svg)](https://www.instagram.com/rusyap7ay3r/)
 
 
 
