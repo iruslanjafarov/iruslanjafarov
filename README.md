@@ -15,6 +15,7 @@ Im Rusya, novice programmer. Studying the code, and qualifying my knowledges
 ![HTML](https://rf0x3d.su/maybe_assets/language-html5.svg)
 ![CSS](https://rf0x3d.su/maybe_assets/language-css3.svg)
 ![NodeJS](https://rf0x3d.su/maybe_assets/nodejs.svg)
+![React] (https://camo.githubusercontent.com/e0573826b75af5016a83ba2d327c71bc0cd1ca292d4e40ea8184bd3e8824dfd8/68747470733a2f2f7266307833642e73752f6d617962655f6173736574732f72656163742e737667)
 
 ## 🌞Copyright
 Img by [rf0x3d](https://github.com/rfoxxxy)
