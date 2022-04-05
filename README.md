@@ -1,5 +1,5 @@
 ### Hi 👋
-Im Rusya, novice programmer. Studying the code, and qualifying my knowledges
+Im Rusya, Front-End Developer. Studying the code, and qualifying my knowledges
 
 
 
