@@ -4,9 +4,9 @@ Im Rusya, Front-End Developer. Studying the code, and qualifying my knowledges
 
 
 ## 😊Resources
-  [![Website](https://rf0x3d.su/maybe_assets/globe_outline_28.svg)](https://rusyaaaa.github.io/)
-  [![VK](https://rf0x3d.su/maybe_assets/logo_vk_outline_28.svg)](https://vk.com/n1ghtwatcher)
-  [![Instagram](https://rf0x3d.su/maybe_assets/story_outline_28.svg)](https://www.instagram.com/n1ghtwath3r/)
+  [![Website](https://rf0x3d.su/maybe_assets/globe_outline_28.svg)]([https://rusyaaaa.github.io/](https://ruslandurov.github.io/))
+  [![VK](https://rf0x3d.su/maybe_assets/logo_vk_outline_28.svg)]([https://vk.com/n1ghtwatcher](https://vk.com/iruslandurov))
+  [![Instagram](https://rf0x3d.su/maybe_assets/story_outline_28.svg)](https://www.instagram.com/iruslandurov/)
 
 
 
