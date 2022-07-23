@@ -1,5 +1,5 @@
 ### Hi 👋
-Im Rusya, Front-End Developer. Studying the code, and qualifying my knowledges
+**Im Ruslan, Front-End Developer. Studying the code, and qualifying my knowledges**
 
 
 
