@@ -1,20 +1,24 @@
-### Hi 👋
-**Im Ruslan, Front-End Developer. Studying the code, and qualifying my knowledges**
+### 👋 I'm Ruslan! And i Front-End Developer
 
+## 😁 About me :
 
+- **📚 Currently im learning in DSTU**  
+  
+- **⚡ Very love programming**  
+   
 
-## 😊Resources
-  [![Website](https://rf0x3d.su/maybe_assets/globe_outline_28.svg)]([https://rusyaaaa.github.io/](https://ruslandurov.github.io/))
-  [![VK](https://rf0x3d.su/maybe_assets/logo_vk_outline_28.svg)]([https://vk.com/n1ghtwatcher](https://vk.com/iruslandurov))
-  [![Instagram](https://rf0x3d.su/maybe_assets/story_outline_28.svg)](https://www.instagram.com/iruslandurov/)
-  [![Telegram](https://rf0x3d.su/maybe_assets/location_outline_28.svg)](https://t.me/iruslandurov)
+## My Skill Set
 
-
-
-## 🔥My skills
-![Java](https://rf0x3d.su/maybe_assets/language-java.svg)
-![HTML](https://rf0x3d.su/maybe_assets/language-html5.svg)
-![CSS](https://rf0x3d.su/maybe_assets/language-css3.svg)
-![NodeJS](https://rf0x3d.su/maybe_assets/nodejs.svg)
-![Python](https://rf0x3d.su/maybe_assets/language-python.svg)
-![ReactJS](https://rf0x3d.su/maybe_assets/react.svg)
+<div align="inline">  
+<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" />  
+<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />  
+<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" />  
+<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="40" />  
+<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" />  
+<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="40" />  
+<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40" />  
+<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="40" />  
+<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="40" />  
+<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="40" />  
+<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" />  
+</div>
