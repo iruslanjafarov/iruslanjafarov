@@ -1,4 +1,4 @@
-### 👋 I'm Ruslan! And i Front-End Developer
+### 👋 I'm Ruslan! Front-End Developer
 
 ## 😁 About me :
 
