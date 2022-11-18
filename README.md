@@ -23,4 +23,5 @@
 <a href="https://vitejs.dev/" target="_blank"><img style="margin: 15px" src="https://vitejs.dev/logo.svg" alt="Vite" height="40" /></a>
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="40" /></a>
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a> 
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node" height="40" /></a>
 </div>
