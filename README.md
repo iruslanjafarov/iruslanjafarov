@@ -4,7 +4,7 @@
 
 - **📚 Currently im learning in DSTU**  
   
-- **⚡ Very love programming**  
+- **⚡ Very love Computer Science and Development**  
    
 
 ## My Skill Set
