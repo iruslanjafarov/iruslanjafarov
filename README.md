@@ -2,7 +2,7 @@
 
 ## 💘 About me :
 
-- **💥 I work to make your fucking ideas take on visible meaning**
+- **💥 I work to make your fucking ideas take on visible meaning;**
    
 
 ## My Skill Set
