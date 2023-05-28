@@ -1,10 +1,8 @@
 ### 👋 I'm Ruslan! Front-End Developer
 
-## 😁 About me :
+## 💘 About me :
 
-- **📚 Currently im learning in DSTU**  
-  
-- **⚡ Very love Computer Science and Development**  
+- **💥 I work to make your fucking ideas take on visible meaning**
    
 
 ## My Skill Set
