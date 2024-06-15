@@ -14,7 +14,9 @@
 <a href="https://www.typescriptlang.org" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" /></a>
 <a href="https://sass-lang.com" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="40" /></a>
 <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind" height="40" /></a>
-<a href="https://ru.reactjs.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" /></a>
+<a href="https://react.dev/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" /></a>
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="40" /></a>
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="Next" height="40" /></a>
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40" /></a>
 <a href="https://ru.bem.info/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="40" /></a>
 <a href="https://vitejs.dev/" target="_blank"><img style="margin: 15px" src="https://vitejs.dev/logo.svg" alt="Vite" height="40" /></a>
