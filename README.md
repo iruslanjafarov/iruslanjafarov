@@ -1,12 +1,3 @@
-### 👋 I'm Ruslan! Front-End Developer
-
-## 💘 About me :
-
-- **💥 I work to make your fucking ideas take on visible meaning;**
-   
-
-## My Skill Set
-
 <div align="inline">  
 <a href="https://developer.mozilla.org/ru/docs/Web/HTML" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" /></a>
