@@ -8,7 +8,13 @@
 <a href="https://www.ionicframework.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/ionic.svg" alt="Ionic" height="40" /></a>
 <a href="https://react.dev/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" /></a>
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="40" /></a>
+<a href="https://zustand-demo.pmnd.rs/" target="_blank"><img style="margin: 15px" src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" alt="Zustand" height="40" /></a>
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="Next" height="40" /></a>
+<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="40" /></a>
+<a href="https://inertiajs.com/" target="_blank"><img style="margin: 15px" src="https://avatars.githubusercontent.com/u/47703742?s=200&v=4" alt="Inertia" height="40" /></a>
+<a href="https://www.php.net/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="40" /></a>
+<a href="https://laravel.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="40" /></a>
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" /></a> 
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40" /></a>
 <a href="https://ru.bem.info/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="40" /></a>
 <a href="https://vitejs.dev/" target="_blank"><img style="margin: 15px" src="https://vitejs.dev/logo.svg" alt="Vite" height="40" /></a>
